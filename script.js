@@ -10,15 +10,15 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Blank Space", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Blank Space", filePath: "songs/1.mp3", coverPath: "covers/2.jpg"},
     {songName: "betty", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Delicate", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "I Knew You Were Trouble", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "I Knew You Were Trouble", filePath: "songs/4.mp3", coverPath: "covers/3.jpg"},
     {songName: "Look What You Made Me Do", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Love Story", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Red", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "The Lorax (Closing Song)", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "You Belong With Me", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "You Belong With Me", filePath: "songs/9.mp3", coverPath: "covers/8.jpg"},
     {songName: "I Don't Wanna Live Forever", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
 ]
 
